@@ -157,3 +157,20 @@ CLOUD K JP: JAPAN TOKYO SOFTBANK IP TRANSIT|512M|1核|10G|500G|100Mbps|8.2 USD/�
 ---|---|---|---|---|---|---|---|---
 VN01-A Price|1G|1核|10G SAN|1T|10Mbps-200Mbps|$3 USD|解锁新加坡区Netflix|[购买链接](https://my.centerhop.com/aff.php?aff=190)
 
+### 7.Hostworld
+
+无限带宽所有计划
+24 小时支持
+伦敦、洛杉矶、纽约、芝加哥
+
+| Plan Name | RAM   | vCPU | STORAGE | BANDWIDTH | DELIVERY | ORDER LINK |
+|-----------|-------|------|---------|-----------|----------|------------|
+| VPS 0.5   | 512MB | 1    | 15GB    | UNLIMITED | 60s      | ORDER      |
+| VPS 1     | 1GB   | 2    | 30GB    | UNLIMITED | 60s      | ORDER      |
+| VPS 2     | 2GB   | 2    | 50GB    | UNLIMITED | 60s      | ORDER      |
+| VPS 3     | 4GB   | 4    | 100GB   | UNLIMITED | 60s      | ORDER      |
+| VPS 4     | 6GB   | 4    | 150GB   | UNLIMITED | 60s      | ORDER      |
+| VPS 5     | 8GB   | 6    | 200GB   | UNLIMITED | 60s      | ORDER      |
+| VPS 6     | 16GB  | 8    | 250GB   | UNLIMITED | 60s      | ORDER      |
+
+
